@@ -8,10 +8,10 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace <username> with GitHub username ###
+  ### Replace <username> with GitHub username - docker image lower case###
   ###############################################
-  DOCKER_IMAGE_NAME: ShaamGitHub-azure-ttt
-  AZURE_WEBAPP_NAME: ShaamGitHub-ttt-app
+  DOCKER_IMAGE_NAME: shaamgithub-azure-ttt
+  AZURE_WEBAPP_NAME: shaamgithub-ttt-app
   ###############################################
 
 jobs:
