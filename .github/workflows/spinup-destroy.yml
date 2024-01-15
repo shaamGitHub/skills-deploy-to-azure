@@ -10,7 +10,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"West US"'
   ###############################################
-  ### Replace <ShaamGitHub> with GitHub username - Manually created Resource Group & Changing AZ Location ###
+  ### Replace <ShaamGitHub> with GitHub username - Manual RG & Changing AZ Location to West US###
   ###############################################
   AZURE_WEBAPP_NAME: ShaamGitHub-ttt-app
 
