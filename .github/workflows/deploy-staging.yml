@@ -11,7 +11,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace ShaamGitHub with GitHub username ###
+  ### Replace ShaamGitHub with GitHub username - After verification of Objects in Azure ET ###
   ###############################################
   DOCKER_IMAGE_NAME: ShaamGitHub-azure-ttt
   AZURE_WEBAPP_NAME: ShaamGitHub-ttt-app
