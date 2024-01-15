@@ -13,8 +13,8 @@ env:
   ###############################################
   ### Replace ShaamGitHub with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <ShaamGitHub>-azure-ttt
-  AZURE_WEBAPP_NAME: <ShaamGitHub>-ttt-app
+  DOCKER_IMAGE_NAME: ShaamGitHub-azure-ttt
+  AZURE_WEBAPP_NAME: ShaamGitHub-ttt-app
   ###############################################
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
